@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying my machine learning skills to solve problems and advance the human society.
 - 🌱 I’m currently building and delpoying computer vision models on google cloud platform...
 - 💞️ I’m looking to collaborate on machine learning projects focused on solving human problems
-- 📫 You can reach me at [](https://ca/linkedin.com/in/ijeoma-ndu)
+- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/ijeoma-ndu)
 
 <!---
 ijeendu/ijeendu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ijeoma Ndu
-- 👀 I’m interested in applying my machine learning skills to solve complex problems and advance the human society.
-- 🌱 I build and deploy machine learning models on google cloud platform...
-- 💞️ I’m looking to collaborate on machine learning projects focused on solving human problems
+- 👀 Experienced in applying machine learning and data analytics skills to solve complex problems and advance humanity.
+- 🌱 Built and deployed several machine learning models across different domains using Python, Azure and GCP.
+- 💞️ Open to opportunities to lead/contribute to machine learning projects focused on solving human problems.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ijeoma-ndu/)
 
 <!---
